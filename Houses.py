@@ -1,3 +1,5 @@
+#This is a code for ranking houses based on a specific criterion
+
 class House:
     def __init__(self, price, size, location_score):
         self.price = price
